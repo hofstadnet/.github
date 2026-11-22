@@ -7,3 +7,4 @@
   de fleste, men ikke alle. Har du lekket en nøkkel: roter den med en gang, og si fra.
 - Nye avhengigheter: velg vedlikeholdte pakker, og vurder om du trenger dem i det hele tatt.
 - Sikkerhetsfeil rapporteres via «Report a vulnerability», se SECURITY.md.
+- Felles retningslinjer for navngivning, dokumentasjon, sikkerhet og infrastruktur: https://github.com/hofstadnet/guidelines.
